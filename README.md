@@ -1,6 +1,6 @@
 # Quiz King
 
-Quiz app created in React with external REST API call for studying purpose.
+Quiz app created in React with external REST API call for studying purposes.
 
 ## Live Demo
 
